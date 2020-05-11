@@ -7,3 +7,9 @@ In this app, I utilize plotly and dash to display a candlestick plot of stocks o
 ## Requirement and Set up
 
 Please refer [here]()
+
+## Final Product
+
+The final product will look like the image below
+
+![candlestickplot](/images/final_plot.png)
